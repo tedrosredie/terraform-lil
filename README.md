@@ -1,2 +1,2 @@
-# terraform-lil
-LinkedIn Learning Coursework
+# terraform-ted
+Learning Coursework
